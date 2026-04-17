@@ -90,7 +90,7 @@ body {
 }
 
 .main_visual {
-    height: 100vh;
+    height: calc(100vh - 120px);
 }
 
 .main_visual .main_visual_slide {
