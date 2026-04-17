@@ -220,7 +220,7 @@ body {
     position: relative;
     background: url(../images/banner01.jpg) no-repeat center center/cover;
     background-attachment: fixed;
-    height: 640px;
+    height: 400px;
 }
 
 .main_banner::before {
